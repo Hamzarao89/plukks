@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901577515637",
+    "project_id": "plukks-6aedb",
+    "storage_bucket": "plukks-6aedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901577515637:android:f2306d79616698c3c44e3c",
+        "android_client_info": {
+          "package_name": "com.example.plukks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901577515637-94nlgoqprcqpgu6q0d0r5fdq2iunbjt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plukks",
+            "certificate_hash": "064b5644e9eb05ed8c3d7fcb1d4441ec12144d91"
+          }
+        },
+        {
+          "client_id": "901577515637-bknjeq4ppgctjmutmdk3kba8053pt5ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApT_1CYAPWDPT000GmYu5WXk2PYOdFu-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901577515637-bknjeq4ppgctjmutmdk3kba8053pt5ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

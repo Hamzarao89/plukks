@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<resources>
+<string name="app_name">plukks</strings>
+<string name="facebook_app_id">1827839050753670</string>
+<string name="fb_login_protocol_scheme">fb1827839050753670</string>
+<string name="facebook_client_token">1d53463902f5f4491cdc5203a0cac60d</string>
+</resources>
